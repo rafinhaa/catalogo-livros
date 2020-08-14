@@ -10,8 +10,8 @@ Em \database_dump\database.sql está uma cópia do banco de dados
 
 ### Pré-requisitos
 
-Servidor PHP
-Servidor Mysql/MariaBD
+- Servidor PHP
+- Servidor Mysql/MariaBD
 
 
 ## Autor
