@@ -57,7 +57,7 @@ CREATE TABLE IF NOT EXISTS `usuarios` (
 DELETE FROM `usuarios`;
 /*!40000 ALTER TABLE `usuarios` DISABLE KEYS */;
 INSERT INTO `usuarios` (`id`, `email`, `senha`, `nome`, `ativo`) VALUES
-	(4, 'rafael@site.com.br', '7c4a8d09ca3762af61e59520943dc26494f8941b', 'Rafael Rodrigues', 1);
+	(4, 'admin@admin.com', 'd033e22ae348aeb5660fc2140aec35850c4da997', 'Rafael Rodrigues', 1);
 /*!40000 ALTER TABLE `usuarios` ENABLE KEYS */;
 
 /*!40101 SET SQL_MODE=IFNULL(@OLD_SQL_MODE, '') */;

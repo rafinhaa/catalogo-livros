@@ -58,7 +58,7 @@
 			<h1 class="jumbotron-heading">Catálogo de exemplo</h1>
 			<p class="lead text-muted">Seu catálogo de livros pessoal.</p>
 			<p>
-				<a href="#" class="btn btn-primary my-2">Repositório do Github</a>
+				<a href="https://github.com/rafinhaa/catalogo-livros" class="btn btn-primary my-2">Repositório do Github</a>
 				<a href="https://github.com/rafinhaa" class="btn btn-secondary my-2">Meu repositório </a>
 			</p>
 		</div>
