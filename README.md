@@ -7,13 +7,13 @@ Simples catálogo de organização de livros. Codado em PHP usando o framework C
 
 Em \database_dump\database.sql está uma cópia do banco de dados
 
-# Credenciais
+## Credenciais
 
 Usuário: admin@admin.com
-Senha;   admin
+Senha:   admin
 
 
-### Pré-requisitos
+## Pré-requisitos
 
 - Servidor PHP
 - Servidor Mysql/MariaBD
