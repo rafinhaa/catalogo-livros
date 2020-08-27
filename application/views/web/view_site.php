@@ -70,7 +70,7 @@
 				<?php foreach ($livros as $livro) { ?>
 					<div class="col-md-4">
 						<div class="card mb-4 box-shadow">
-							<img class="card-img-top" src="upload/<?= $livro->img?>" data-holder-rendered="true" style="height: 100%; width: 100%; display: block;">
+							<img class="card-img-top" src="<?= base_url('upload/' . $livro->img) ?>" data-holder-rendered="true" style="height: 100%; width: 100%; display: block;">
 							<div class="card-body">
 								<h5 class="mt-0"><?= $livro->titulo ?></h5>
 								<p class="card-text"><?= $livro->resumo ?></p>
