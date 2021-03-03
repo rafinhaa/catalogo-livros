@@ -16,12 +16,12 @@
 <h1 align="center">
   <img width="600" style="border-radius: 10px" height="auto" alt="Screenshot" title="Level Up" src="docs/images/preview.gif" />
   <div style="display: flex; flex-direction: row;">
-    <img width="400" style="border-radius: 10px" height="auto" alt="Screenshot" title="Level Up" src="Screenshot_1.png" />
-    <img width="400" style="border-radius: 10px" height="auto" alt="Screenshot" title="Level Up" src="Screenshot_2.png" />
+    <img width="400" style="border-radius: 10px" height="auto" alt="Screenshot" title="Level Up" src="docs/images/Screenshot_1.png" />
+    <img width="400" style="border-radius: 10px" height="auto" alt="Screenshot" title="Level Up" src="docs/images/Screenshot_2.png" />
   <div>
   <div style="display: flex; flex-direction: row;">
-    <img width="400" style="border-radius: 10px" height="auto" alt="Screenshot" title="Level Up" src="Screenshot_3.png" />
-    <img width="400" style="border-radius: 10px" height="auto" alt="Screenshot" title="Level Up" src="Screenshot_4.png" />
+    <img width="400" style="border-radius: 10px" height="auto" alt="Screenshot" title="Level Up" src="docs/images/Screenshot_3.png" />
+    <img width="400" style="border-radius: 10px" height="auto" alt="Screenshot" title="Level Up" src="docs/images/Screenshot_4.png" />
   <div>
 </h1>
 
