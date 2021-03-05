@@ -1,6 +1,6 @@
 <h4 align="center">
     <h1 align="center">
-		# Catálogo de Livros
+		Catálogo de Livros
     </h1>
     <br><br>
     <p align="center">
@@ -14,14 +14,14 @@
 </h4>
 
 <h1 align="center">
-  <img width="600" style="border-radius: 10px" height="auto" alt="Screenshot" title="Level Up" src="docs/images/preview.gif" />
+  <img width="600" style="border-radius: 10px" height="auto" alt="Screenshot" title="Screenshot" src="docs/images/preview.gif" />
   <div style="display: flex; flex-direction: row;">
-    <img width="400" style="border-radius: 10px" height="auto" alt="Screenshot" title="Level Up" src="docs/images/Screenshot_1.png" />
+    <img width="400" style="border-radius: 10px" height="auto" alt="Screenshot" title="Screenshot" src="docs/images/Screenshot_1.png" />
     <img width="400" style="border-radius: 10px" height="auto" alt="Screenshot" title="Level Up" src="docs/images/Screenshot_2.png" />
   <div>
   <div style="display: flex; flex-direction: row;">
-    <img width="400" style="border-radius: 10px" height="auto" alt="Screenshot" title="Level Up" src="docs/images/Screenshot_3.png" />
-    <img width="400" style="border-radius: 10px" height="auto" alt="Screenshot" title="Level Up" src="docs/images/Screenshot_4.png" />
+    <img width="400" style="border-radius: 10px" height="auto" alt="Screenshot" title="Screenshot" src="docs/images/Screenshot_3.png" />
+    <img width="400" style="border-radius: 10px" height="auto" alt="Screenshot" title="Screenshot" src="docs/images/Screenshot_4.png" />
   <div>
 </h1>
 
@@ -51,7 +51,7 @@ Configurar em /aplication/config/config.php na linha 27 a base do projeto
 - Senha:   admin
 
 
-## Pre requirements
+## ✔️ Pre requirements
 - Servidor PHP
 - Servidor Mysql/MariaBD
 
